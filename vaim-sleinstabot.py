@@ -19,15 +19,16 @@ logo = """
   |/(_/(_(_/ / / /_---_/_/ / /_/_)_(__(_/(_/_)(_)(__ 
                                                      
                                                      
-    [✔]  https://github.com/VaimpierOfficial    [✔]
-    [✔]             Version 1.0.0               [✔]
+    [✔]  https://github.com/Maih4ckerHu    [✔]
+    [✔]             Mr.H4cker                [✔]
     [✔]  Please Don't Use For illegal Activity  [✔]
 
         """                                                          
 
-#mujhe pata hai function bna sakte the mager programming rule jo chal gya use mat chhedoo hehehe !!! isliye rukgye jb time milega funtion
-#bnayege speech ka >>>>>>>>>
+# Akele hi kafi hu 
+#😈😈😈😈😈😈😈😈😈 >>>>>>>>>
 #let's start >>>>>>>>>>>>>>>>>>>>>>>>
+#Chalo Mr.H4cker ke sath ... Insta sms  karte hai >>>>>>>
 engine = pyttsx3.init()
 engine.setProperty('rate', 190)
 voices = engine.getProperty('voices') 
@@ -133,8 +134,8 @@ except:
     engine.say("what the fuck it is please try again why you going wrong path")
     engine.runAndWait()
     try:
-        openbrowser.get("https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ")
-        engine.say("Subscribe this youtube channel for more intresting tool and educational videos and thankyou for using our tool have a good day")
+        openbrowser.get("jbsnhacking.simdif.com")
+     #Mr.H4cker
         engine.runAndWait()
     except:
         sys.exit("HAVE A GOOD DAY")
